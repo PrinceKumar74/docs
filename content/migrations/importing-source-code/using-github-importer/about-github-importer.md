@@ -1,37 +1,35 @@
----
-title: About GitHub Importer
-intro: "If your source code is stored on a code hosting service using Git, Subversion, Mercurial, or Team Foundation Version Control (TFVC) and is accessible from the public internet, you can move the code to {% data variables.product.prodname_dotcom %} using {% data variables.product.prodname_importer %}."
-redirect_from:
-  - /articles/about-github-importer
-  - /github/importing-your-projects-to-github/about-github-importer
-  - /github/importing-your-projects-to-github/importing-source-code-to-github/about-github-importer
-  - /get-started/importing-your-projects-to-github/importing-source-code-to-github/about-github-importer
-versions:
-  fpt: '*'
-  ghec: '*'
----
+<h1 align="center">Hi 👋, I'm PrinceKumar</h1>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
-## About {% data variables.product.prodname_importer %}
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1pGQX80exG-0Ei4atGiysD&ust=1709362745416000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjf58u-0oQDFQAAAAAdAAAAABAE">
 
-{% data variables.product.prodname_importer %} is a tool that quickly imports source code repositories, including commits and revision history, to {% data variables.product.prodname_dotcom_the_website %} for you.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar74&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar74" /> </p>
 
-During an import, depending on the version control system you're importing from, you can authenticate with your remote repository, update commit author attribution, and either import repositories with large files or, if you don't want to use {% data variables.large_files.product_name_long %}, remove large files.
+- 🔭 I’m currently working on [https://github.com/PrinceKumar74](https://github.com/PrinceKumar74)
 
-## Supported functionality by version control system
+- 🌱 I’m currently learning **Node.js**
 
-{% data reusables.migrations.github-importer-non-git-deprecation %}
+- 🤝 I’m looking for help with [https://github.com/PrinceKumar74](https://github.com/PrinceKumar74)
 
-{% rowheaders %}
+- 📝 I regularly write articles on [https://github.com/PrinceKumar74](https://github.com/PrinceKumar74)
 
-| Import action | Subversion | Mercurial | TFVC | Git |
-|:--------------|:----------:|:---------:|:----------------------:|:---:|
-| Authenticate with remote repository | {% octicon "check" aria-label="Supported" %}| {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} |
-| [Update commit author attribution](/migrations/importing-source-code/using-github-importer/updating-commit-author-attribution-with-github-importer) | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "x" aria-label="Not supported" %} |
-| Move large files to [Git Large File Storage](/repositories/working-with-files/managing-large-files/about-git-large-file-storage) | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "x" aria-label="Not supported" %} |
-| Remove large files from your repository | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "check" aria-label="Supported" %} | {% octicon "x" aria-label="Not supported" %} |
+- 💬 Ask me about **Java, Webdevlopment**
 
-{% endrowheaders %}
+- 📫 How to reach me **princekumar7250p@gmail.com**
 
-## Further reading
+- ⚡ Fun fact **I think i am Funny**
 
-- "[AUTOTITLE](/migrations/importing-source-code/using-the-command-line-to-import-source-code/importing-an-external-git-repository-using-the-command-line)"
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-5030aa284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-5030aa284/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/prince7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prince7250/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekumar74&show_icons=true&locale=en&layout=compact" alt="princekumar74" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princekumar74&show_icons=true&locale=en" alt="princekumar74" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekumar74&" alt="princekumar74" /></p>
